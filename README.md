@@ -1,6 +1,10 @@
 # ERD
 <img width="699" height="581" alt="myapp_db-diagram" src="https://github.com/user-attachments/assets/fab9a1da-6351-4570-8dd9-d8073078373c" />
-범례 (Legend): - 🔑 PK: 기본키 (Primary Key) - 🔗 FK: 외래키 (Foreign Key) - 연결선: 테이블 간 참조 관계 및 데이터 흐름
+
+범례 (Legend): 
+- 🔑 PK: 기본키 (Primary Key)
+- 🔗 FK: 외래키 (Foreign Key)
+- 연결선: 테이블 간 참조 관계 및 데이터 흐름
 
 # 테이블 구성 및 관계
 총 9개의 테이블로 구성되어 있으며, 각 주체별로 역할을 분리하였습니다. 
